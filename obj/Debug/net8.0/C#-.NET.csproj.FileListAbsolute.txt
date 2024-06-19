@@ -12,3 +12,4 @@ C:\C#-.NET\obj\Debug\net8.0\refint\C#-.NET.dll
 C:\C#-.NET\obj\Debug\net8.0\C#-.NET.pdb
 C:\C#-.NET\obj\Debug\net8.0\C#-.NET.genruntimeconfig.cache
 C:\C#-.NET\obj\Debug\net8.0\ref\C#-.NET.dll
+C:\C#-.NET\obj\Debug\net8.0\C#-.NET.sourcelink.json
